@@ -4,7 +4,7 @@ import java.util.*;
 
 class complex {
 
-    static int real1, real2 , img1 ,img2 ;
+    static int real1, real2 , img1 ,img2 ; 
     complex() {
         Scanner scan = new Scanner(System.in);
 
